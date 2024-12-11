@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{ECC39C8D-BBCE-458F-8D54-977235EB53E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c# assigment-1", "c# assigment-1\c# assigment-1.csproj", "{FDF65E7C-B767-45EF-83AD-AA60A5297C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC39C8D-BBCE-458F-8D54-977235EB53E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC39C8D-BBCE-458F-8D54-977235EB53E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC39C8D-BBCE-458F-8D54-977235EB53E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC39C8D-BBCE-458F-8D54-977235EB53E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF65E7C-B767-45EF-83AD-AA60A5297C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF65E7C-B767-45EF-83AD-AA60A5297C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF65E7C-B767-45EF-83AD-AA60A5297C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF65E7C-B767-45EF-83AD-AA60A5297C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
